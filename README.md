@@ -47,8 +47,8 @@ Depending on the user's choice, it displays relevant information and performs th
 
 **USAGE:**
 To use the ATM Machine Simulation, follow these steps:
-	1.	Launch the Application: Start the program by executing the compiled executable. 
-	2.	Authenticate: Enter the ATM PIN to access the main menu. The default PIN is 7654. 
-	3.	Choose a Transaction: Select the desired transaction option from the menu. 
-	4.	Follow Instructions: Complete the transaction by following the on-screen prompts. 
-	5.	Exit: Safely exit the application by choosing the exit option.
+	-	Launch the Application: Start the program by executing the compiled executable. 
+	-	Authenticate: Enter the ATM PIN to access the main menu. The default PIN is 7654. 
+	-	Choose a Transaction: Select the desired transaction option from the menu. 
+	-	Follow Instructions: Complete the transaction by following the on-screen prompts. 
+	-	Exit: Safely exit the application by choosing the exit option.
